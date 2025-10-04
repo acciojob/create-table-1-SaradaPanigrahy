@@ -9,4 +9,4 @@ function insert_Row() {
     cell2.innerHTML = "New Cell2";
 }
 
-}
+
